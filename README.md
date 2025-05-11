@@ -4,7 +4,7 @@ This project analyzes and models passenger data from a fictional interstellar tr
 
 ## 📁 Files
 
-- `main.py` or `main.ipynb`: Core script that handles preprocessing, feature engineering, model training, and prediction.
+- `main.ipynb`: Core script that handles preprocessing, feature engineering, model training, and prediction.
 - `train.csv`: Training dataset with known outcomes.
 - `test.csv`: Test dataset without known outcomes (for final submission).
 - `submission.csv`: Output file containing Passenger IDs and predicted transport outcomes.
